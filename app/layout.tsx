@@ -8,7 +8,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Landing Page",
+  title: "Vignam",
   description: "Generated a landing app",
 };
 
