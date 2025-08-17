@@ -80,7 +80,7 @@ export default function VideoSection() {
           <div className="relative w-full" style={{ paddingBottom: "56.25%" }}>
             <div className="absolute inset-0 w-full h-full">
               <img
-                src="https://img.youtube.com/vi/E1czmX6bjFA/maxresdefault.jpg"
+                src="https://img.youtube.com/vi/E1czmX6bjFA/hqdefault.jpg"
                 alt="Vignam Demo Video Thumbnail"
                 className="w-full h-full object-cover"
               />

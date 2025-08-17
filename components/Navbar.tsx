@@ -12,7 +12,6 @@ export default function Navbar() {
     { name: "Home", href: "#hero" },
     { name: "Video", href: "#video" },
     { name: "Features", href: "#features" },
-    { name: "Showcase", href: "#showcase" },
     { name: "Testimonials", href: "#testimonials" },
   ];
 
